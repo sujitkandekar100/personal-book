@@ -24,7 +24,7 @@ A React application that allows users to search for books using the Open Library
 
 ## Demo
 
-Check out the live demo: [Personal Bookshelf](https://your-unique-subdomain.netlify.app)
+Check out the live demo: [Personal Bookshelf](https://personalbookshelfa.netlify.app/booksearch))
 
 ## Installation
 
